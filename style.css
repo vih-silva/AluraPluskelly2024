@@ -2,3 +2,12 @@
      --branco-pricipal:#ffffff;
     --cinza-secundario:#c0c0c0; 
     --botao-azul:#167bf7;
+    --cor-de-fundo:#0030c
+
+
+    body{
+        background-color: var(cor);
+        color:var(var(--branco-pricipal);
+        font-family: var(--fonte-principal);
+        font-size: 16px;
+        font-weight: 400;
